@@ -1,1 +1,1 @@
-Code templates for machine learning experiment - spring 2024.
+Code templates for machine learning experiments - spring 2024.
